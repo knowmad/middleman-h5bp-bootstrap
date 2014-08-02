@@ -1,7 +1,7 @@
 # middleman-h5bp-bootstrap
 ---
 
-Middleman project template with HTML5 Boilerplate and Bootstrap.
+Middleman project template with HTML5 Boilerplate and Bootstrap. These files are based on Initializr.com and provided as a convenience when creating a new Middleman project.
 
 
 ## Usage
