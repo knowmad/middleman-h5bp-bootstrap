@@ -1,4 +1,17 @@
-middleman-h5bp-bootstrap
-========================
+# middleman-h5bp-bootstrap
+---
 
-Project template for Middleman with HTML5 Boilerplate and Bootstrap
+Middleman project template with HTML5 Boilerplate and Bootstrap.
+
+
+## Usage
+
+    middleman init my_new_project --template=middleman-h5bp-bootstrap
+
+
+## Getting started
+
+1. Install Middleman
+2. Clone this repository into ~/.middleman
+3. Run the command above to initialize your site
+4. See the layout samples at http://getbootstrap.com/2.3.2/getting-started.html#examples or search Google to find even more Bootstrap Templates
